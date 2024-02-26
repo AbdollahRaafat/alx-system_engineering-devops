@@ -4,7 +4,7 @@ This is the tasks of shell_basics project from **ALX** program.
 
 - [x] 0. Where am I?
 - [x] 1. What’s in there?
-- [ ] 2. There is no place like home
+- [x] 2. There is no place like home
 - [ ] 3. The long format
 - [ ] 4. Hidden files
 - [ ] 5. I love numbers
