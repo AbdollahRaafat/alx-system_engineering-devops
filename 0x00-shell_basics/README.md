@@ -16,7 +16,7 @@ These are the tasks of shell_basics project from **ALX** program.
 - [x] 11. Lists
 - [x] 12. File type
 - [x] 13. We are symbols, and inhabit symbols
-- [ ] 14. Copy HTML files
+- [x] 14. Copy HTML files
 - [ ] 15. Let’s move
 - [ ] 16. Clean Emacs
 - [ ] 17. Tree
