@@ -6,7 +6,7 @@ These are the tasks of shell_basics project from **ALX** program.
 - [x] 1. What’s in there?
 - [x] 2. There is no place like home
 - [x] 3. The long format
-- [ ] 4. Hidden files
+- [x] 4. Hidden files
 - [ ] 5. I love numbers
 - [ ] 6. Welcome
 - [ ] 7. Betty in my first directory
