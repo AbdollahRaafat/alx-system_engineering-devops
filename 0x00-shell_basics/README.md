@@ -8,7 +8,7 @@ These are the tasks of shell_basics project from **ALX** program.
 - [x] 3. The long format
 - [x] 4. Hidden files
 - [x] 5. I love numbers
-- [ ] 6. Welcome
+- [x] 6. Welcome
 - [ ] 7. Betty in my first directory
 - [ ] 8. Bye bye Betty
 - [ ] 9. Bye bye My first directory
