@@ -13,7 +13,7 @@ These are the tasks of shell_basics project from **ALX** program.
 - [x] 8. Bye bye Betty
 - [x] 9. Bye bye My first directory
 - [x] 10. Back to the future
-- [ ] 11. Lists
+- [x] 11. Lists
 - [ ] 12. File type
 - [ ] 13. We are symbols, and inhabit symbols
 - [ ] 14. Copy HTML files
