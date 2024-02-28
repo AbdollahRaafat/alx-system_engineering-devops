@@ -21,4 +21,4 @@ These are the tasks of shell_basics project from **ALX** program.
 - [x] 16. Clean Emacs
 - [x] 17. Tree
 - [x] 18. Life is a series of commas, not periods
-- [ ] 19. File type: School
+- [x] 19. File type: School
