@@ -19,6 +19,6 @@ These are the tasks of shell_basics project from **ALX** program.
 - [x] 14. Copy HTML files
 - [x] 15. Let’s move
 - [x] 16. Clean Emacs
-- [ ] 17. Tree
+- [x] 17. Tree
 - [ ] 18. Life is a series of commas, not periods
 - [ ] 19. File type: School
