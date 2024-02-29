@@ -13,7 +13,7 @@ These are the tasks of shell_basics project from **ALX** program.
 - [x] 8. James Bond
 - [x] 9. John Doe
 - [x] 10. Look in the mirror
-- [ ] 11. Directories
+- [x] 11. Directories
 - [ ] 12. More directories
 - [ ] 13. Change group
 - [ ] 14. Owner and group
