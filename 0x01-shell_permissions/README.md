@@ -14,7 +14,7 @@ These are the tasks of shell_basics project from **ALX** program.
 - [x] 9. John Doe
 - [x] 10. Look in the mirror
 - [x] 11. Directories
-- [ ] 12. More directories
+- [x] 12. More directories
 - [ ] 13. Change group
 - [ ] 14. Owner and group
 - [ ] 15. Symbolic links
