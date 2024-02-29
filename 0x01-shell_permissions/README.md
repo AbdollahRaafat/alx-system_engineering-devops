@@ -7,7 +7,7 @@ These are the tasks of shell_basics project from **ALX** program.
 - [x] 2. Groups
 - [x] 3. New owner
 - [x] 4. Empty!
-- [ ] 5. Execute
+- [x] 5. Execute
 - [ ] 6. Multiple permissions
 - [ ] 7. Everybody!
 - [ ] 8. James Bond
