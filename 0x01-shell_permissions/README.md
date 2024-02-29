@@ -16,7 +16,7 @@ These are the tasks of shell_basics project from **ALX** program.
 - [x] 11. Directories
 - [x] 12. More directories
 - [x] 13. Change group
-- [ ] 14. Owner and group
+- [x] 14. Owner and group
 - [ ] 15. Symbolic links
 - [ ] 16. If only
 - [ ] 17. Star Wars
