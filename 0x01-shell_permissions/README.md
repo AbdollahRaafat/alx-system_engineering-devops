@@ -5,7 +5,7 @@ These are the tasks of shell_basics project from **ALX** program.
 - [x] 0. My name is Betty
 - [x] 1. Who am I
 - [x] 2. Groups
-- [ ] 3. New owner
+- [x] 3. New owner
 - [ ] 4. Empty!
 - [ ] 5. Execute
 - [ ] 6. Multiple permissions
