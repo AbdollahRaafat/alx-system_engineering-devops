@@ -9,10 +9,10 @@ These are the tasks of shell_basics project from **ALX** program.
 - [x] 4. Empty!
 - [x] 5. Execute
 - [x] 6. Multiple permissions
-- [ ] 7. Everybody!
-- [ ] 8. James Bond
-- [ ] 9. John Doe
-- [ ] 10. Look in the mirror
+- [x] 7. Everybody!
+- [x] 8. James Bond
+- [x] 9. John Doe
+- [x] 10. Look in the mirror
 - [ ] 11. Directories
 - [ ] 12. More directories
 - [ ] 13. Change group
