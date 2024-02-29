@@ -4,7 +4,7 @@ These are the tasks of shell_basics project from **ALX** program.
 
 - [x] 0. My name is Betty
 - [x] 1. Who am I
-- [ ] 2. Groups
+- [x] 2. Groups
 - [ ] 3. New owner
 - [ ] 4. Empty!
 - [ ] 5. Execute
