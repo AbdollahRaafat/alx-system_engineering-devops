@@ -4,8 +4,8 @@ These are the tasks of **Shell, I/O Redirections and filters** project from **AL
 
 - [x] 0. Hello World
 - [x] 1. Confused smiley
-- [ ] 2. Let's display a file
-- [ ] 3. What about 2?
+- [x] 2. Let's display a file
+- [x] 3. What about 2?
 - [ ] 4. Last lines of a file
 - [ ] 5. I'd prefer the first ones actually
 - [ ] 6. Line #2
