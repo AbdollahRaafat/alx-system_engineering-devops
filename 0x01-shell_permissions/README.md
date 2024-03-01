@@ -1,6 +1,6 @@
-## 0x00-shell_basics
+## 0x01. Shell, permissions
 
-These are the tasks of shell_basics project from **ALX** program.
+These are the tasks of Shell, permissions project from **ALX** program.
 
 - [x] 0. My name is Betty
 - [x] 1. Who am I
