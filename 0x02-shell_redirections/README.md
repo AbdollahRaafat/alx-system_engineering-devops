@@ -21,7 +21,7 @@ These are the tasks of **Shell, I/O Redirections and filters** project from **AL
 - [x] 16. What's next?
 - [x] 17. I hate bins
 - [x] 18. Letters only please
-- [ ] 19. A to Z
+- [x] 19. A to Z
 - [ ] 20. Without C, you would live in hiago
 - [ ] 21. esreveR
 - [ ] 22. DJ Cut Killer
