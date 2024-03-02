@@ -18,7 +18,7 @@ These are the tasks of **Shell, I/O Redirections and filters** project from **AL
 - [x] 13. Being unique is better than being perfect
 - [x] 14. It must be in that file
 - [x] 15. Count that word
-- [ ] 16. What's next?
+- [x] 16. What's next?
 - [ ] 17. I hate bins
 - [ ] 18. Letters only please
 - [ ] 19. A to Z
