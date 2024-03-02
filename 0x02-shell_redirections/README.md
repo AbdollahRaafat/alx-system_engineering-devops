@@ -19,7 +19,7 @@ These are the tasks of **Shell, I/O Redirections and filters** project from **AL
 - [x] 14. It must be in that file
 - [x] 15. Count that word
 - [x] 16. What's next?
-- [ ] 17. I hate bins
+- [x] 17. I hate bins
 - [ ] 18. Letters only please
 - [ ] 19. A to Z
 - [ ] 20. Without C, you would live in hiago
