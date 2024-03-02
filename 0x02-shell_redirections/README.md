@@ -13,7 +13,7 @@ These are the tasks of **Shell, I/O Redirections and filters** project from **AL
 - [x] 8. Save current state of directory
 - [x] 9. Duplicate last line
 - [x] 10. No more javascript
-- [ ] 11. Don't just count your directories, make your directories count
+- [x] 11. Don't just count your directories, make your directories count
 - [ ] 12. What’s new
 - [ ] 13. Being unique is better than being perfect
 - [ ] 14. It must be in that file
