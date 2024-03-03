@@ -23,7 +23,7 @@ These are the tasks of **Shell, I/O Redirections and filters** project from **AL
 - [x] 18. Letters only please
 - [x] 19. A to Z
 - [x] 20. Without C, you would live in hiago
-- [ ] 21. esreveR
+- [x] 21. esreveR
 - [ ] 22. DJ Cut Killer
 - [ ] 23. Empty casks make the most noise
 - [ ] 24. A gif is worth ten thousand words
