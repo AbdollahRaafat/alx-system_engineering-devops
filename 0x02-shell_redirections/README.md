@@ -25,7 +25,7 @@ These are the tasks of **Shell, I/O Redirections and filters** project from **AL
 - [x] 20. Without C, you would live in hiago
 - [x] 21. esreveR
 - [x] 22. DJ Cut Killer
-- [ ] 23. Empty casks make the most noise
+- [x] 23. Empty casks make the most noise
 - [ ] 24. A gif is worth ten thousand words
 - [ ] 25. Acrostic
 - [ ] 26. The biggest fan
