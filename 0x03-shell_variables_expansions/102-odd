@@ -1,3 +1,2 @@
 #!/bin/bash
-array=( $( ls . ) )
-for (( j=1; j<${#array[@]}; j+=2 )); do printf "%s\n" ${array[$j]}; done
+array=( $( ls . ) ) for (( j=1; j<${#array[@]}; j+=2 )); do printf "%s\n" ${array[$j]}; done
