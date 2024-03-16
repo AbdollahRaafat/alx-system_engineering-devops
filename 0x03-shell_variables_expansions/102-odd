@@ -1,2 +1,2 @@
 #!/bin/bash
-array=( $( ls . ) ) for (( j=1; j<${#array[@]}; j+=2 )); do printf "%s\n" ${array[$j]}; done
+cat -n | cut -b 6- | grep ^[13579] | cut -b 3-
